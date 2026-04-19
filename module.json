@@ -1,6 +1,6 @@
 {
   "id": "dd-image-pack",
-  "title": "DD Image Pack",
+  "title": "DD Assets Pack",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
@@ -17,6 +17,5 @@
   "flags": {
     "canUpload": true
   },
-  "action": "manageModule",
   "description": "<p>Collection of images.</p>"
 }
